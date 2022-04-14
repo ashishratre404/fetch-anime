@@ -1,0 +1,16 @@
+.card{
+    background-color: transparent;
+}
+.box img{
+    height: 350px;
+    object-fit: none;
+}
+.details{
+    text-align: start;
+    margin-top: 20px;
+}
+h5 span{
+    font-weight: 600;
+    font-size: 25px;
+    margin-right: 10px;
+}

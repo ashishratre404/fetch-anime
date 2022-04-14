@@ -1,0 +1,25 @@
+body {
+    background-color: #b3e5fc;
+    border-radius: 10px;
+    font-family: "Raleway", sans-serif;
+  }
+
+  h2{
+      color: rebeccapurple;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 50px;
+  }
+
+  .card {
+    height: 350px;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .card img{
+      height: 250px;
+      object-fit: none;
+  }
